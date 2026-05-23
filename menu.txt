@@ -1,0 +1,5 @@
+Coffee,350,Drinks
+Burger,700,FastFood
+Pizza,1200,FastFood
+Tea,200,Drinks
+Cake,500,Dessert

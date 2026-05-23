@@ -1,0 +1,9 @@
+ORDER HISTORY
+-------------------
+CustomerID: 101
+Coffee x2 = 700
+Burger x1 = 700
+Subtotal: 1400
+Tax: 70
+Total: 1470
+-------------------
