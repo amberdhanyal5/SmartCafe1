@@ -1,66 +1,61 @@
-# ☕ Smart Cafe Ordering System
+ Smart Cafe Ordering System
 
-## 📌 Project Overview
+ Project Overview
 The Smart Cafe Ordering System is a C++ Object-Oriented Programming (OOP) based console application.
 It simulates a cafe where customers can view menu, place orders, and generate bills with tax calculation.
 
 This project is developed for Software Construction and Development Lab (Semester 5).
 
----
-
-## 🎯 Objectives
+ Objectives
 - Implement Object Oriented Programming (OOP)
 - Manage cafe menu dynamically
 - Handle customer orders
 - Generate billing system
 - Apply file handling and exception handling
 
----
 
-## 🚀 Features
+ Features
 
-### 🍔 Menu Management
+Menu Management
 - Add new items (Admin/Staff)
 - Remove items
 - Categorized menu (Drinks, Fast Food, Desserts)
 - Display menu
 
-### 🛒 Order System
+ Order System
 - Multiple items per order
 - Quantity support
 - Remove item from order
 - Automatic bill calculation
 
-### 🧾 Billing System
+ Billing System
 - Subtotal calculation
 - 5% tax calculation
 - Final total bill
 
-### 👤 Customer System
+ Customer System
 - Unique Customer ID
 - Order history support
 
-### 👨‍💼 Staff/Admin System
+Staff/Admin System
 - Menu management using inheritance
 
-### 💾 File Handling
+File Handling
 - Save menu in `menu.txt`
 - Save orders in `orders.txt`
 - Load data from files
 
-### ⚠️ Exception Handling
+ Exception Handling
 - Empty order check
 - File error handling
 - Prevent program crash
 
-### 🔍 Extra Features
+ Extra Features
 - Search item by name
 - Filter by category
 - Discount system (bonus feature)
 
----
-
-## 📁 Project Structure
+Project Structure
 
 SmartCafe1/
 ├── include/
@@ -82,9 +77,7 @@ SmartCafe1/
 ├── README.md
 └── .gitignore
 
----
-
-## ▶️ How to Run
+ ▶️ How to Run
 
 Compile:
 g++ -std=c++17 src/*.cpp -o SmartCafe1
@@ -92,9 +85,7 @@ g++ -std=c++17 src/*.cpp -o SmartCafe1
 Run:
 SmartCafe1.exe
 
----
-
-## 🧠 Concepts Used
+ Concepts Used
 - OOP (Object Oriented Programming)
 - Inheritance
 - Composition
@@ -103,9 +94,7 @@ SmartCafe1.exe
 - Exception Handling
 - Modular Programming
 
----
-
-## 📊 Sample Output
+Sample Output
 
 ------ Smart Cafe ------
 
@@ -116,12 +105,7 @@ Subtotal: 1400
 Tax (5%): 70  
 Total: 1470  
 
----
-
-## 👨‍🎓 Author
+Author
 Software Engineering Student (Semester 5)
 
----
-
-## 📌 Note
 This project demonstrates real-world software design using C++ and OOP principles.
