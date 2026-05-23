@@ -1,0 +1,3 @@
+Coffee,350
+Burger,700
+Pizza,1200
